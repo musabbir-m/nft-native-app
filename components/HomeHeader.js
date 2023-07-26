@@ -35,12 +35,12 @@ const HomeHeader = ({onSearch}) => {
 
       <View style={{marginVertical: SIZES.font}}>
         <Text style={{
-          fontFamily: FONTS.regular, fonSize: SIZES.small, color:COLORS.white
+          fontFamily: FONTS.regular, fontSize: SIZES.small, color:COLORS.white
         }}>
             Hello, Helena 👋
         </Text>
         <Text style={{
-          fontFamily: FONTS.bold, fonSize: SIZES.large, color:COLORS.white, marginTop: SIZES.base/2
+          fontFamily: FONTS.bold, fontSize: SIZES.large, color:COLORS.white, marginTop: SIZES.base/2
         }}>
             Let's find a masterpiece
         </Text>
